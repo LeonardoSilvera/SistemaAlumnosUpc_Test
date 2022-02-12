@@ -1,0 +1,15 @@
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\bin\Debug\net6.0\SistemaAlumnos.Api.Application.deps.json
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\bin\Debug\net6.0\SistemaAlumnos.Api.Application.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\bin\Debug\net6.0\ref\SistemaAlumnos.Api.Application.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\bin\Debug\net6.0\SistemaAlumnos.Api.Application.pdb
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\bin\Debug\net6.0\SistemaAlumnos.Api.Domain.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\bin\Debug\net6.0\SistemaAlumnos.Api.Domain.pdb
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\SistemaAlumnos.Api.Application.csproj.AssemblyReference.cache
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\SistemaAlumnos.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\SistemaAlumnos.Api.Application.AssemblyInfoInputs.cache
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\SistemaAlumnos.Api.Application.AssemblyInfo.cs
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\SistemaAlumnos.Api.Application.csproj.CoreCompileInputs.cache
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\SistemaAlumnos.Api.Application.csproj.CopyComplete
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\SistemaAlumnos.Api.Application.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\ref\SistemaAlumnos.Api.Application.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Application\obj\Debug\net6.0\SistemaAlumnos.Api.Application.pdb

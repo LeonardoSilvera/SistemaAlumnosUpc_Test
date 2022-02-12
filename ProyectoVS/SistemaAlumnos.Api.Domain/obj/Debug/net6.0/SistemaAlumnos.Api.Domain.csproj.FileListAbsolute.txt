@@ -1,0 +1,11 @@
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\bin\Debug\net6.0\SistemaAlumnos.Api.Domain.deps.json
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\bin\Debug\net6.0\SistemaAlumnos.Api.Domain.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\bin\Debug\net6.0\ref\SistemaAlumnos.Api.Domain.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\bin\Debug\net6.0\SistemaAlumnos.Api.Domain.pdb
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\obj\Debug\net6.0\SistemaAlumnos.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\obj\Debug\net6.0\SistemaAlumnos.Api.Domain.AssemblyInfoInputs.cache
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\obj\Debug\net6.0\SistemaAlumnos.Api.Domain.AssemblyInfo.cs
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\obj\Debug\net6.0\SistemaAlumnos.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\obj\Debug\net6.0\SistemaAlumnos.Api.Domain.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\obj\Debug\net6.0\ref\SistemaAlumnos.Api.Domain.dll
+C:\Leonardo\Archivos\Trabajos\Postulacion.Camvia.Feb.2022\ProyectoVS\SistemaAlumnos.Api.Domain\obj\Debug\net6.0\SistemaAlumnos.Api.Domain.pdb

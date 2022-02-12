@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GpDmO7gO0vRmnyBHbzG8mrg5jzYN0WEqgE7vBq7bq84=",
+  "Source": "SistemaAlumnos.Api",
+  "BasePath": "_content/SistemaAlumnos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
